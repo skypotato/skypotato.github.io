@@ -1,2 +1,2 @@
-# blog
-skypotato's git blog
+## skypotato.github.io
+skypotato's git blog create
