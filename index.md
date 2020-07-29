@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# INDEX-PAGE
+# INDEX PAGE
 create index page
