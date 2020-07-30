@@ -1,6 +1,17 @@
-remote_theme : pietromenna/jekyll-cayman-theme
-theme: jekyll-theme-cayman
-title: skypotato
-description: skypotato's git blog
-show_downloads: true
-google_analytics:
+# Setup
+title:        Skypotato's Blog
+tagline:      Skypotato's Blog TEST
+baseurl:      ""
+paginate:     1
+locale:       "ko"
+# About/contact
+author:
+  name:       Skypotato
+  url:        https://skypotato.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
