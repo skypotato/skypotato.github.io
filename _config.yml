@@ -1,5 +1,6 @@
+remote_theme : pietromenna/jekyll-cayman-theme
+theme: jekyll-theme-cayman
 title: skypotato
 description: skypotato's git blog
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
