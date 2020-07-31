@@ -4,11 +4,13 @@ skypotato's git blog
 ## 목차
 
 - [Jekyll 사용 환경 구성](#jekyll-사용-환경-구성)
+    - [전제조건](#전제조건)
     - [사용 환경 확인](#사용-환경-확인)
 - [참고](#참고)
 
 ## Jekyll 사용 환경 구성
 
+### 전제조건
 - [Ruby 설치](https://www.ruby-lang.org/en/downloads/)
 - [MinGW 설치](http://www.mingw.org/)
 - [Make 설치](http://gnuwin32.sourceforge.net/packages/make.htm)
@@ -18,7 +20,7 @@ skypotato's git blog
 ruby -v #Ruby
 gem -v #RubyGems
 gcc -v #GCC <- window 환경에서는 MinGW 설치
-g++ -v
+g++ -v #GCC <- window 환경에서는 MinGW 설치
 make -v #Make
 ```
 
