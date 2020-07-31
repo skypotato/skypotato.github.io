@@ -1,5 +1,11 @@
 # skypotato.github.io
-skypotato's git blog
+skypotato's git blog coming soon.<br>
+
+## History
+- 2020.07.31 : 
+>요즘 티스토리 블로그 활동도 점점 뜸해지고, Git에 더욱 친숙해 지기 위해 Git Blog를 만들어 보기로 결심했다.<br>
+열심히 찾아보니 Jekll로 작성하는 방법과 Hexo이 있었는데, <br> 
+더 많은 사람이 선택한 Jekll를 선택하게 되었다.
 
 ## 목차
 
