@@ -1,7 +1,13 @@
 # skypotato.github.io
 skypotato's git blog
 
-## jekyll 사용 환경 구성
+## 목차
+
+- [Jekyll 사용 환경 구성](#jekyll-사용-환경-구성)
+    -[사용 환경 확인](#사용-환경-확인)
+- [참고](#참고)
+
+## Jekyll 사용 환경 구성
 
 - [Ruby 설치](https://www.ruby-lang.org/en/downloads/)
 - [MinGW 설치](http://www.mingw.org/)
