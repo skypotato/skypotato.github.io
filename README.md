@@ -4,11 +4,13 @@ skypotato's git blog
 ## 목차
 
 - [Jekyll 사용 환경 구성](#jekyll-사용-환경-구성)
-    -[사용 환경 확인](#사용-환경-확인)
+    - [전제조건](#전제조건)
+    - [사용 환경 확인](#사용-환경-확인)
 - [참고](#참고)
 
 ## Jekyll 사용 환경 구성
 
+### 전제조건
 - [Ruby 설치](https://www.ruby-lang.org/en/downloads/)
 - [MinGW 설치](http://www.mingw.org/)
 - [Make 설치](http://gnuwin32.sourceforge.net/packages/make.htm)
