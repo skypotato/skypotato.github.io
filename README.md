@@ -19,8 +19,8 @@ skypotato's git blog
 ```shell script
 ruby -v #Ruby
 gem -v #RubyGems
-gcc -v #GCC <- window 환경에서는 MinGW 설치
-g++ -v
+gcc -v #GCC <- Window 환경에서는 MinGW 설치
+g++ -v #GCC <- Window 환경에서는 MinGW 설치
 make -v #Make
 ```
 
