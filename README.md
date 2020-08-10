@@ -18,6 +18,7 @@ skypotato's git blog coming soon.<br>
 
 ### 전제조건
 [전제조건](http://jekyllrb-ko.github.io/docs/installation/#requirements)에서 각 운영체제에 맞는 가이드를 따라 환경을 구성하면 된다.
+
 - [Ruby 설치](https://www.ruby-lang.org/en/downloads/)
 - [MinGW 설치](http://www.mingw.org/)
 - [Make 설치](http://gnuwin32.sourceforge.net/packages/make.htm)
@@ -35,16 +36,22 @@ make -v #Make
 
 ### Bundle 구성
 ./myblog 에 새 Jekyll 사이트를 생성한다.
+
 ~~~shell script
 jekyll new myblog
 ~~~
 
 ### 로컬 서버 적용
-생성된 bundle의 경로로 이동하여 아래 명령어로 사이트를 빌드하고 로컬 서버에 적용한다.<br>
-그 후 브라우저를 통해 [http://localhost:4000](http://localhost:4000)를 확인한다.
+생성된 bundle의 경로로 이동하여 아래 명령어로 사이트를 빌드하고 로컬 서버에 적용한다.
+
 ~~~shell script
 bundle exec jekyll serve
 ~~~
+
+### 로컬 서버 확인
+그 후 브라우저를 통해 [http://localhost:4000](http://localhost:4000)를 확인한다.
+
+![Jekll 첫번째 페이](./assets/img/FirstJekllPage.png)
 
 ## 참고
 - [GitHub Pages](https://pages.github.com/)
