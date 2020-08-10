@@ -17,6 +17,7 @@ skypotato's git blog coming soon.<br>
 ## Jekyll 사용 환경 구성
 
 ### 전제조건
+[전제조건](http://jekyllrb-ko.github.io/docs/installation/#requirements)에서 각 운영체제에 맞는 가이드를 따라 환경을 구성하면 된다.
 - [Ruby 설치](https://www.ruby-lang.org/en/downloads/)
 - [MinGW 설치](http://www.mingw.org/)
 - [Make 설치](http://gnuwin32.sourceforge.net/packages/make.htm)
