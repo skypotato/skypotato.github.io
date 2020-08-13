@@ -53,7 +53,7 @@ bundle exec jekyll serve
 ### 로컬 서버 확인
 그 후 브라우저를 통해 [http://localhost:4000](http://localhost:4000)를 확인한다.
 
-![Jekll 첫번째 페이](./assets/img/FirstJekllPage.png)
+![Jekll 첫번째 페이지](./assets/img/FirstJekllPage.png)
 
 ## 참고
 - [GitHub Pages](https://pages.github.com/)
