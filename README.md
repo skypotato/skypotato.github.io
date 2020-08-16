@@ -8,6 +8,8 @@ skypotato's git blog coming soon.<br>
 더 많은 사람이 선택한 Jekll를 선택하게 되었다.
 - 2020.08.10 :
 >다른 약속에 바쁘다가 드디어 맥북에 사용환경 구성을 했다. 짬짬히 가이드 따라 구성해볼 계획이다.
+- 2020.08.16 : 
+>연휴가 되어 시간이 조금 생겨 해당 프로젝트를 진행하는 중...
 
 ## 목차
 
@@ -54,6 +56,13 @@ bundle exec jekyll serve
 그 후 브라우저를 통해 [http://localhost:4000](http://localhost:4000)를 확인한다.
 
 ![Jekll 첫번째 페이지](./assets/img/FirstJekllPage.png)
+
+### Jekll Theme 적용
+마음에 드는 테마를 찾던 중 Moon Theme를 적용했다.<br>
+깔끔하구 어두운 분위기가 맘에 들어 이 테마를 기초로 커스터 마이징을 진행할 예정이다.<br>
+블로그에 필요한 기본 정보를 입력 후 필요 없는 기능을 제거하고 필요한 기능을 추가하여 사용해야겠다.
+ 
+![Moon Theme 적용](./assets/img/MoonTheme.png)
 
 ## 참고
 - [GitHub Pages](https://pages.github.com/)
