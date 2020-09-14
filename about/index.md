@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Skypotato
-tags: [about, skypotato, webcash, bizplay, accounts]
+tags: [about, skypotato, webcash, bizplay, -->]
 date: 2020-09-14
 comments: false
 ---
