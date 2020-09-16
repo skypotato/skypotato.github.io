@@ -7,10 +7,7 @@ project: true
 tag:
 - github 
 - blog
-- test
 comments: true
 ---
 # GitHub Blog
-GitHub blog Test 
-First Post For Test
-blog post TESTSET
+GitHib Blog Start...!!
