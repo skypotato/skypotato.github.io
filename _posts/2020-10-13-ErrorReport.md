@@ -14,16 +14,15 @@ tag:
 - jQuery
 comments: true
 ---
-# Error Message 
-![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)<br>
-개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.
-# Debug 
-'개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.'로 구글링.
-# Error Reslove 
-![ErrorReslove](/assets/img/posts/2020-10-13-ErrorReport_02.JPG)<br>
-IE 설정 중 '호환성 보기'에서 해당하는 웹사이트 제거.
 # Content 
 주로 jQuery 사용 시 IE에서 '호환성 보기' 설정이 되있을 경우 발생한다.
-
+## Error Message 
+![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)<br>
+개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.
+## Debug 
+'개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.'로 구글링.
+## Error Reslove 
+![ErrorReslove](/assets/img/posts/2020-10-13-ErrorReport_02.JPG)<br>
+IE 설정 중 '호환성 보기'에서 해당하는 웹사이트 제거.
 ## 참고
 - [SonMan's IT BBS 블로그](http://son10001.blogspot.com/2017/05/ie-addeventlistener.html)
