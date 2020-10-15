@@ -26,4 +26,4 @@ IE 설정 중 '호환성 보기'에서 해당하는 웹사이트 제거.
 주로 jQuery 사용 시 IE에서 '호환성 보기' 설정이 되있을 경우 발생한다.
 
 ## 참고
-- SonMan's IT BBS 블로그(http://son10001.blogspot.com/2017/05/ie-addeventlistener.html)
+- [SonMan's IT BBS 블로그](http://son10001.blogspot.com/2017/05/ie-addeventlistener.html)
