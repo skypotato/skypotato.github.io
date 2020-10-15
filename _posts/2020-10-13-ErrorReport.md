@@ -14,8 +14,8 @@ tag:
 - jQuery
 comments: true
 ---
-![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)
 # Error Message 
+![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)
 개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.
 # Debug 
 '개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.'로 구글링.
