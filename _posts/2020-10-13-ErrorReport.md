@@ -15,7 +15,9 @@ tag:
 comments: true
 ---
 # Content 
-주로 jQuery 사용 시 IE에서 '호환성 보기' 설정이 되있을 경우 발생한다.
+갑자기 에러 접수로 해당 메시지의 이미지만 올라와 당황을 시켰던 오류 메시지이다.<br>
+자체 테스트 시 해당 오류가 발생하지 않아 설정 문제라고 판단하여, 구글링으로 호환성에 대한 부분을 찾아 적용하니 해결되었다.<br>
+해당 오류는 주로 jQuery 사용 시 IE에서 '호환성 보기' 설정이 되있을 경우 발생한다고 한다.
 ## Error Message 
 ![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)<br>
 개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.
