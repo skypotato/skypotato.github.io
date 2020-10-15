@@ -15,7 +15,7 @@ tag:
 comments: true
 ---
 # Error Message 
-![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)
+![ErrorMessage](/assets/img/posts/2020-10-13-ErrorReport_01.JPG)<br>
 개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.
 # Debug 
 '개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다.'로 구글링.
