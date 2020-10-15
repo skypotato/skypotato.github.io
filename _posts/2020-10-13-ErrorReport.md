@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "[Error]"
+title: "[Error]개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다."
 date:   2020-10-14
 excerpt: "개체가 'addEventListener' 속성이나 메서드를 지원하지 않습니다."
 tag:
-- eror
+- error
+- debug
+- ie
+- 호환성
+- 속성
+- 메서드
+- addEventListener
 comments: true
 ---
 
